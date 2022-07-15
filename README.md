@@ -1,7 +1,10 @@
 # 网络可视化工具
 
-预览 http://www.xgraph.xinxinxin.space/
+预览 http://www.xgraph.xinxinxin.space/ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### 前端：React Ant Design ECharts
+### 后端：Python Flask igraph
 
 ## Available Scripts
 
